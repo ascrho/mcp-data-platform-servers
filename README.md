@@ -201,4 +201,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Marcos Quintero** — Data Engineer  
-[GitHub](https://github.com/ascrho) | [LinkedIn](https://www.linkedin.com/in/marcosquinterero-dataengineer/)
+[GitHub](https://github.com/MarcosQuintero) | [LinkedIn](https://www.linkedin.com/in/marcosquinterero-dataengineer/)
